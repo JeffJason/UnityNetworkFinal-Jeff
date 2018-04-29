@@ -1,0 +1,6 @@
+RULES OF THE GAME:
+4 players must be needed to start the game.
+players can pickup the flag at the centre on the game.
+there are speed pick ups can players can use.
+shooting a player causes them to drop the flag.
+whoever carries the flag when the timer drops to 0 WINS!
